@@ -29,7 +29,7 @@ a {
   text-decoration: none;
 }
 
-.h1-title {
+.h-one-title {
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
@@ -38,7 +38,7 @@ a {
   color: var(--white-background);
 }
 
-.h2-title {
+.h-two-title {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -48,7 +48,7 @@ a {
   color: var(--dark);
 }
 
-.h3-title {
+.h-three-title {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -159,7 +159,7 @@ address {
 
 /* BLOCK-4 */
 
-.block-4 {
+.block-fourth {
   background-color: var(--light);
 }
 
