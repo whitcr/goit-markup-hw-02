@@ -80,18 +80,19 @@ a {
 }
 
 .button {
+  font-family: "Roboto", sans-serif;
   background-color: var(--primary-brand);
   color: var(--white-background);
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.04em;
   text-align: center;
   cursor: pointer;
 }
 
 .button:hover,
-.buttom:focus {
+.button:focus {
   background-color: var(--pressed-state);
 }
 
