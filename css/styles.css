@@ -17,7 +17,7 @@ body {
   font-family: "Roboto", sans-serif;
   size: 16px;
   line-height: 24px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: var(--text);
   background-color: var(--white-background);
 }
@@ -25,13 +25,12 @@ body {
 a {
   font-size: 12px;
   line-height: 16px;
-  letter-spacing: 4%;
+  letter-spacing: 0.04em;
   text-decoration: none;
 }
 
 .h-one-title {
   font-size: 56px;
-  font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
@@ -40,7 +39,6 @@ a {
 
 .h-two-title {
   font-size: 36px;
-  font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
@@ -58,7 +56,6 @@ a {
 }
 
 .p-text {
-  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -68,7 +65,7 @@ a {
 .small-text {
   font-size: 12px;
   line-height: 12px;
-  letter-spacing: 4%;
+  letter-spacing: 0.04em;
 }
 
 .medium-text {
@@ -139,7 +136,6 @@ address {
 }
 
 .adress-text {
-  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
