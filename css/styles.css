@@ -19,9 +19,8 @@ body {
   line-height: 24px;
   letter-spacing: 2%;
   color: var(--text);
-  background-color: var(--white-background)
+  background-color: var(--white-background);
 }
-
 
 a {
   font-size: 12px;
@@ -56,7 +55,6 @@ a {
   letter-spacing: 0.02em;
   text-align: left;
   color: var(--dark);
-
 }
 
 .p-text {
@@ -66,7 +64,6 @@ a {
   letter-spacing: 0.02em;
   color: var(--text);
 }
-
 
 .small-text {
   font-size: 12px;
@@ -102,9 +99,9 @@ a {
   text-decoration: none;
 }
 
-.link:hover, 
+.link:hover,
 .link:focus {
-  color: var(--pressed-state)
+  color: var(--pressed-state);
 }
 
 .logo {
@@ -124,6 +121,10 @@ a {
 
 .studio-logo {
   color: var(--dark);
+}
+
+.studio-logo-white {
+  color: var(--light);
 }
 
 .list {
@@ -205,6 +206,7 @@ address {
   background-color: var(--dark);
   color: var(--white-background);
 }
+
 .footer-text {
   line-height: 1.5;
   color: var(--light);
