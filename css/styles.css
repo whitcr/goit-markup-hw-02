@@ -157,35 +157,22 @@ address {
 
 /* BLOCK-3 */
 
-#block-3 h2 {
-  text-align: center;
-}
-
-#block-3 .element {
-  text-align: center;
-}
-
 /* BLOCK-4 */
 
-#block-4 {
+.block-4 {
   background-color: var(--light);
 }
 
-#block-4 .list-element {
+.list-element {
   background-color: var(--white-background);
 }
 
 /* filter block  */
 
-#filter button {
-  background: linear-gradient(0deg, #f4f4fd, #f4f4fd),
-    linear-gradient(0deg, #e7e9fc, #e7e9fc);
-  color: var(--primary-brand);
-}
-
 /* portfolio-content */
 
 .button-filter {
+  font-family: "Roboto", sans-serif;
   background-color: var(--light);
   color: var(--primary-brand);
   font-size: 16px;
