@@ -74,6 +74,14 @@ a {
   letter-spacing: 4%;
 }
 
+.medium-text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--dark);
+}
+
 .button {
   background-color: var(--primary-brand);
   color: var(--white-background);
@@ -124,7 +132,7 @@ a {
 
 /*HEADER*/
 
-.address {
+address {
   font-style: normal;
 }
 
@@ -138,19 +146,12 @@ a {
 
 /* MAIN-SCREEN */
 
-#main-screen .container {
+.main-screen {
   color: var(--white-background);
-}
-
-#main-screen {
   background-color: var(--dark);
 }
 
 /* BLOCK-2 */
-
-#block-2 h2 {
-  display: none;
-}
 
 /* BLOCK-3 */
 
